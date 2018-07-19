@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-Hey there! This page is included as an example. Feel free to customize it for
-your own use.
+Hey there! These are few run-ins with the classics. If the posts ever get read it would be a good thing.
 
-Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
+I borrowed the template for the from the kind folk at text.io. Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
 on GitHub Pages.
