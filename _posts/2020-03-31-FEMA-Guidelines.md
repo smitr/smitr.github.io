@@ -1,8 +1,3 @@
-FEMA guidelines
-===============
-
- 
-
 \* [From CDC - Preparedness 101: Zombie Apocalypse \|
 FEMA.gov](https://www.fema.gov/blog/2011-05-19/cdc-preparedness-101-zombie-apocalypse
 )
