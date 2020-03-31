@@ -2,6 +2,22 @@
 title: FEMA Guidelines
 ---
 
+COVID-19 Updates:
+
+[Seattle Times Daily News UPDATE
+](<https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-31-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/>
+)
+
+[Patient Impact & Hospital Capacity Module FOR REPORTING
+CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html )
+
+[Federal Request for COVID-19 DATA
+REPORTING](https://www.gnyha.org/news/federal-request-for-covid-19-data/)
+
+ 
+
+Quarantine and Isolation:
+
 \* [Quarantine and Isolation \| Quarantine \|
 CDC](https://www.cdc.gov/quarantine/index.html)
 
@@ -20,16 +36,15 @@ CDC](https://www.cdc.gov/quarantine/final-rules-control-communicable-diseases.ht
 Code of Federal Regulations Part 70 (Interstate) and Part 71 (Foreign) -
 (Print-only)](https://www.cdc.gov/quarantine/pdf/Public-Health-Order_Generic_FINAL_02-13-2020-p.pdf)
 
+ 
+
+Legal Code:
+
 \* [Federal Register :: Control of Communicable
 Diseases](https://www.federalregister.gov/documents/2017/01/19/2017-00615/control-of-communicable-diseases)
 
 \* [eCFR — Code of Federal
 Regulations](https://gov.ecfr.io/cgi-bin/text-idx?SID=bdc5f4e1e3307d76ebc660a2ffc91540&mc=true&node=pt42.1.70&rgn=div5)
-
-\_
-
-\* [From CDC - Preparedness 101: Zombie Apocalypse \|
-FEMA.gov](https://www.fema.gov/blog/2011-05-19/cdc-preparedness-101-zombie-apocalypse)
 
  
 
