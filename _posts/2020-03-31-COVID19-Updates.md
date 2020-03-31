@@ -1,5 +1,5 @@
 ---
-title: COVID19 Updates, FEMA Guidelines, Legal Code
+title: COVID19 Updates
 ---
 
 COVID-19 Updates:
@@ -8,7 +8,7 @@ COVID-19 Updates:
 UPDATE](https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-31-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/)
 
 [Patient Impact & Hospital Capacity Module FOR REPORTING
-CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html )
+CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html)
 
 [Federal Request for COVID-19 DATA
 REPORTING](https://www.gnyha.org/news/federal-request-for-covid-19-data/)
