@@ -4,13 +4,13 @@ title: COVID19 Updates
 
 COVID-19 Updates:
 
-[Seattle Times Daily News
+\* [Seattle Times Daily News
 UPDATE](https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-31-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/)
 
-[Patient Impact & Hospital Capacity Module FOR REPORTING
+\* [Patient Impact & Hospital Capacity Module FOR REPORTING
 CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html)
 
-[Federal Request for COVID-19 DATA
+\* [Federal Request for COVID-19 DATA
 REPORTING](https://www.gnyha.org/news/federal-request-for-covid-19-data/)
 
 
