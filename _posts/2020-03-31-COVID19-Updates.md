@@ -14,7 +14,7 @@ CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html)
 REPORTING](https://www.gnyha.org/news/federal-request-for-covid-19-data/)
 
 
-Quarantine and Isolation:
+FEMA Guidelines - Quarantine and Isolation:
 
 \* [Quarantine and Isolation \| Quarantine \|
 CDC](https://www.cdc.gov/quarantine/index.html)
