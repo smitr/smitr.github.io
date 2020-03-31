@@ -10,15 +10,12 @@ but the separation of philosophers into sages and cranks seems to be more
 sensitive to frames of reference. This is perhaps as it should be, in view of
 the unregimented and speculative character of the subject."[^1]
 
-[^]:  
+[^1]: Willard Quine, 'Has Philosophy Lost Contact with People?' (*Theories and
+Things*, 1979)
+
+ 
 
 Images
 ------
 
 ![](../images/schopenhauer1.jpg)
-
-Footnotes
----------
-
-[^1]Willard Quine, 'Has Philosophy Lost Contact with People?' (*Theories and
-Things*, 1979)
