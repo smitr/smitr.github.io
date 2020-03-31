@@ -13,7 +13,6 @@ CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html)
 [Federal Request for COVID-19 DATA
 REPORTING](https://www.gnyha.org/news/federal-request-for-covid-19-data/)
 
- 
 
 Quarantine and Isolation:
 
@@ -35,7 +34,6 @@ CDC](https://www.cdc.gov/quarantine/final-rules-control-communicable-diseases.ht
 Code of Federal Regulations Part 70 (Interstate) and Part 71 (Foreign) -
 (Print-only)](https://www.cdc.gov/quarantine/pdf/Public-Health-Order_Generic_FINAL_02-13-2020-p.pdf)
 
- 
 
 Legal Code:
 
