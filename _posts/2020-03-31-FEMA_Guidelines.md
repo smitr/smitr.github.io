@@ -14,9 +14,9 @@ CDC](https://www.cdc.gov/quarantine/index.html )
 FEMA](https://rtlt.preptoolkit.fema.gov/Public/Resource/ViewFile/12-508-1134?type=Pdf&p=12
 )
 
-\* [FEMA:
-BIA_Annex_Final_1-23-17_(508_Compliant_6-28-17).pdf](https://www.fema.gov/media-library-data/1511178017324-92a7a7f808b3f03e5fa2f8495bdfe335/BIA_Annex_Final_1-23-17_(508_Compliant_6-28-17).pdf
-)
+\* [Biological Incident Annex to the Response and Recovery Federal Interagency
+Operational Plans
+(pdf)](https://www.fema.gov/media-library-data/1511178017324-92a7a7f808b3f03e5fa2f8495bdfe335/BIA_Annex_Final_1-23-17_(508_Compliant_6-28-17).pdf)
 
 \* [Final Rules for Control of Communicable Diseases: Interstate and Foreign –
 Scope and Definitions \| Quarantine \|
