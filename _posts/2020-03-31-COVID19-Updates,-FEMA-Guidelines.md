@@ -4,9 +4,8 @@ title: FEMA Guidelines
 
 COVID-19 Updates:
 
-[Seattle Times Daily News UPDATE
-](<https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-31-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/>
-)
+[Seattle Times Daily News
+UPDATE](<https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-march-31-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-nation/>)
 
 [Patient Impact & Hospital Capacity Module FOR REPORTING
 CASES](https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html )
