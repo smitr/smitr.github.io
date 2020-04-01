@@ -17,7 +17,7 @@ Personal growth is the idea of this era's road to salvation.
 
 But perhaps self-growth is to reductive, because it does not allow for contact with god which extends beyond the growth of the self.
 
-So religion could be seen as a major challenge to the current politically correct society, in a way a challenge to the individualism of our lives, that was brought by capitalism, which also brought enourmous good for more people, but needs to be transcended. Or there will be chaos of the kind at the end of Roman Empire, when similar context existed.
+So religion could be seen as a major challenge to the current politically correct society, in a way a challenge to the individualism of our lives, that was brought by capitalism, which also brought enourmous good for more people, but needs to be transcended (there will be chaos of the kind at the end of Roman Empire, when similar context existed, etc., etc.).
 
 Atheism definitely keeps religion honest, so much so that more conversation is needed, so Harris and Peterson are perfect for one another.
 
@@ -29,4 +29,4 @@ In a very clear division of labor, Harris and Peterson are a philosopher/theolog
 Problem for Harris is that ratio is always part of the spirit of the time, of the context. Why can't he see it as a passion or his own cross, this science quest? A journey? Religious experience is a journey, certainly.
 Harris and Peterson moderate one another thus.
 
-Include Plutarch's An seni respublica gerenda sit
+Include Plutarch's *An seni respublica gerenda sit* (*Moralia*)
