@@ -15,7 +15,7 @@ Arthur Schopenhauer's 'On University Philosophy' is one of the funnier essays wr
 In the piece, Schopenhauer ripped his university fellow Hegel, and the way philosophy was taught in Germany at the time. The essay at first reads almost like a satire, to quickly turn into perhaps a true picture of a permanent condition: professional philosophers -that work at universities- are **not free to think**, since they are **paid to teach**. Sour grapes (Schopenhauer couldn't keep his teaching position), however, he did bring up an issue that never really went away.
 
 
-[^1]: 'Has Philosophy Lost Contact with People?’ by W.V. Quine, 1981, in [Theories and Things](https://www.hup.harvard.edu/catalog.php?isbn=978067487926), pp. 190-3
+[^1]: 'Has Philosophy Lost Contact with People?’ by W.V. Quine, 1981, in [Theories and Things](https://www.hup.harvard.edu/catalog.php?isbn=9780674879263), pp. 190-3
 
 
 
