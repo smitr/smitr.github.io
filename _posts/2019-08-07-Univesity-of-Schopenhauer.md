@@ -19,6 +19,3 @@ Images
 ------
 
 ![](../images/schopenhauer1.jpg)
-
-Footnotes
----------
