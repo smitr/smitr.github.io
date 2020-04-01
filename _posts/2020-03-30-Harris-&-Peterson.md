@@ -8,7 +8,7 @@ For Harris it need not to; the Church of old is over, confessions (e.g.) do not 
 
 Christendom is over as a phenomenon that is considered fairly pure and a structure that is fairly consistent. Donatism is the consequence of a similar world today where complexity is much higher.
 
-The ways of achieving salvation is what spelled the fragmentation for a world that was well adapted and united in god. So the very permissive individuality is what recreates phenomena like individuality. Some religions do not have that (like islam perhaps), but rather have more robust coding of meaning and rules of a good life.
+The ways of achieving salvation is what spelled the fragmentation for a world that was well adapted and united in god. So the very permissive individuality is what recreates phenomena like individuality. Some religions do not have that (like Islam perhaps), but rather have more robust coding of meaning and rules of a good life.
 So atheism and faith can be reconciled, because everyone seems to be in a quest for meaning and spirituality.
 
 Seems to me that Harris is a purist who is unwilling to accede that the "old" idea of spirituality as religion, because religion is tainted to him.
