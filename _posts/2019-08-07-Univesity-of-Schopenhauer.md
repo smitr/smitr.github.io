@@ -8,10 +8,11 @@ competence. Students of the heavens are separable into astronomers and
 astrologers as readily as are the minor domestic ruminants into sheep and goats,
 but the separation of philosophers into sages and cranks seems to be more
 sensitive to frames of reference. This is perhaps as it should be, in view of
-the unregimented and speculative character of the subject."[^1]
+the unregimented and speculative character of the subject[^1]."
 
-[^1]: Willard Quine (In *Theories and Things*, 1979), 'Has Philosophy Lost
-Contact with People?’
+[^1]: Willard Quine (In [Theories and
+Things](https://www.hup.harvard.edu/catalog.php?isbn=978067487926), 1979), 'Has
+Philosophy Lost Contact with People?’
 
  
 
