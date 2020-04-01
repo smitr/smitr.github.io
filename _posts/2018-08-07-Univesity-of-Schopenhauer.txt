@@ -1,0 +1,21 @@
+﻿---
+title: University of Schopenhauer
+---
+
+
+Images
+------
+
+![](<../images/radcliffe-camera.jpg>)
+
+
+
+Footnotes
+---------
+
+Notes can be placed anywhere[^1] in the source file. When document is published
+to a paper-oriented format (PDF or Word) footnotes are displayed at the bottom
+of the page. E-book readers usually display notes in popups.
+
+[^1]: Yes, right here.
+
