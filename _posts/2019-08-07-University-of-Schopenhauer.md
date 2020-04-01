@@ -24,4 +24,4 @@ In the piece, Schopenhauer ripped his university fellow Hegel, and the way philo
 Images
 ------
 
-![](../images/schopenhauer1.jpg)
+![](../images/schopenhauer2.jpg)
